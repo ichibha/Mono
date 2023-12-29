@@ -6,7 +6,7 @@ It outlines our approach to user data protection.
 
 ## Data Collection and Usage
 - **User Data**: User data is stored on the device and not transmitted to any servers.
-- **Google AdMob**: The App incorporates Google AdMob for advertising. Refer to [Google privacy policy](https://policies.google.com/privacy) and [AdMob help center](https://support.google.com/admob/) for their data handling practices.
+- **Google AdMob**: The App incorporates Google AdMob for advertising. Refer to [Google privacy policy](https://policies.google.com/privacy) and [Google AdMob Help](https://support.google.com/admob/) for their data handling practices.
 
 ## Data Protection
 We are committed to safeguarding the confidentiality and integrity of user data stored on devices.
