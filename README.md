@@ -1,10 +1,8 @@
-# Mono -puzzles-
-
-A simplest puzzle game.  
-For questions, feedback, bug reports, or other inquiries, please visit our [Issues](https://github.com/ichibha/Mono/issues) page.  
-
-
-![Mono image 1](https://github.com/ichibha/Mono/assets/41054969/0524ed24-d01e-4126-b6c0-98221b76ddc5)
+# Support page for Mono -puzzles-
+For questions, feedback, bug reports, or other inquiries, please visit [Issues page](https://github.com/ichibha/Mono/issues).
 
 ## Acknowledgements
-Curved arrow figures in the preview images in the App Store page created by [Flaticon](https://www.flaticon.com/free-icons/curved-arrow).
+Curved arrow figures in the preview images are created by [Flaticon](https://www.flaticon.com/free-icons/curved-arrow).  
+Following websites are referenced to prepare the problems:
+- [糸鋸木工 オーダー＆受注販売](https://woodcraftmiya.blog.fc2.com/blog-entry-23.html) (accessed on 12.25.2023)
+- [オンリーワン同好会](https://only1.link/questioncollection.html) (accessed on 12.25.2023)
